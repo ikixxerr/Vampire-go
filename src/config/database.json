@@ -1,0 +1,20 @@
+{
+    "localPath": "database",
+    "storage": "database/files",
+    "mariadb": {
+        "host": "localhost",
+        "port": 3306,
+        "user": "REDACTED",
+        "password": "REDACTED",
+        "database": "bmfdb",
+        "connectionLimit": 30
+    },
+    "redis": {
+        "username": "REDACTED",
+        "password": "REDACTED",
+        "socket": {
+             "host": "pg-2c7f9079-server-767.d.aivencloud.com",
+            "port": 27576
+        }
+    }
+}

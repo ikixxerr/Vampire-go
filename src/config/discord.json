@@ -1,0 +1,19 @@
+{
+    "CLIENT_ID": "1217767872718311424",
+    "CLIENT_SECRET": "REDACTED",
+
+    "BASE_ENDPOINT": "https://discord.com/api",
+    "CDN_BASE_ENDPOINT": "https://cdn.discordapp.com",
+
+    "TOKEN_REVOKE_URL": "/oauth2/token/revoke",
+
+    "USER_URL": "/users/@me",
+
+    "BOT_TOKEN": "REDACTED",
+    "BOT_PREFIX": "?",
+    "BOT_OWNERS": "1227864557641404510",
+    "OWNER_ONLY": true,
+    "LOG_CHANNEL": "1244651956648149072",
+    "GUILD_ID": "1236910125068058706",
+    "webhookUrl": "REDACTED"
+}

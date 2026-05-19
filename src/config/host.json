@@ -1,0 +1,10 @@
+{
+    "apiPort": 8899,
+    "dispPort": 7500,
+    "roomPort": 9900,
+    "baseHost": "http://localhost",
+    "cdnHost": "http://192.168.1.35:3888",
+    "dispHost": "http://192.168.1.35:8899",
+    "gameHost": "192.168.1.35",
+    "gamePort": 19130
+}

@@ -1,0 +1,408 @@
+{
+  "nextUserId": 1064,
+  "user": {
+    "1016": {
+      "account": {
+        "email": "",
+        "password": "bbdcf60e22c88e4ede108beb085f7df9:5b796cd0f755d7e9c963be165c8613ba242c213c2d4b0dc94c0c6f91a58c5f4365684048eda8aa7bbe1793c287207cb5da3ba00e02f6fe50168ba2bf0a5e30b0",
+        "creationTime": 1748654003640,
+        "accessToken": "vyIff017iTIkv3Kr1YieosGhcm7jsN6vRIiLkS0Uj1c.eyJ1c2VySWQiOiIxMDE2In0",
+        "loginTime": 1749139572606
+      },
+      "profile": {
+        "nickName": "Sociable_Elviur",
+        "sex": 1,
+        "picUrl": "",
+        "details": "",
+        "birthday": "",
+        "isFreeNickname": true
+      }
+    },
+    "1032": {
+      "account": {
+        "email": "",
+        "password": "9e55f321ce59b1dce3150f5b95b74285:6044fd821e144934e35b03ab5a3b9e66216df994476dc33c983cf54f407af71a2234e06dc73f7bb3f316e48aead070b13bbd0899b72b2ce557fa78bb86fbc89a",
+        "creationTime": 1748774173283,
+        "accessToken": "K8ycunDsZn6ycFWzBUo4RXXddV4Kwavs0LKfKSFOPZU.eyJ1c2VySWQiOiIxMDMyIn0",
+        "loginTime": 1748869189435
+      },
+      "profile": {
+        "nickName": "tes",
+        "sex": 1,
+        "picUrl": "",
+        "details": "",
+        "birthday": "",
+        "isFreeNickname": false
+      }
+    },
+    "1048": {
+      "account": {
+        "email": "",
+        "password": "c3247c8ad65d59bfe5adc3b96c73f91d:9e10366990422173e3fc0a0cecc28bf4d1dce1e77bede15cf770d050122a4a2b1d0a7b9fe4cf9b8f0d2a05ecbeb2efbf80bb98ed01789de8394cc2fc08fdc8ce",
+        "creationTime": 1748952784467,
+        "accessToken": "KoplkSFDDMq5YFB/3nnsYvSnurJq8eI54ylcKMypyrc.eyJ1c2VySWQiOjEwNDh9",
+        "loginTime": 0
+      }
+    },
+    "1064": {
+      "account": {
+        "email": null,
+        "password": "4c83c520746467b9fb442f51b0fe22bb:5454f86bcf6bad8693ec562e89e14d4fbb78a272771a2d14ebd0368533034cc7f970fb8051bcd8d56cb0a9846b805a85093c2e35787991f46fc54e8633e1045c",
+        "creationTime": 1748952785274,
+        "accessToken": "Q4lq6PSzp1X0wpI4Tnm8meu11SXH+SmY/51LQ9tLHlg.eyJ1c2VySWQiOjEwNjR9",
+        "loginTime": 0
+      },
+      "profile": {
+        "nickName": "Gullible_Lukeyy",
+        "sex": 1,
+        "picUrl": "",
+        "details": "",
+        "birthday": "",
+        "isFreeNickname": true
+      }
+    }
+  },
+  "vip": {
+    "1016": {
+      "userId": 1016,
+      "vip": 0,
+      "expireDate": 0
+    },
+    "1032": {
+      "userId": 1032,
+      "vip": 0,
+      "expireDate": 0
+    },
+    "1064": {
+      "userId": 1064,
+      "vip": 0,
+      "expireDate": 0
+    }
+  },
+  "user_locale": {
+    "1016": {
+      "userId": 1016,
+      "language": "in",
+      "country": ""
+    },
+    "1032": {
+      "userId": 1032,
+      "language": "in",
+      "country": ""
+    },
+    "1064": {
+      "userId": 1064,
+      "language": "in",
+      "country": ""
+    }
+  },
+  "wealth": {
+    "1016": {
+      "userId": 1016,
+      "golds": 20000,
+      "diamonds": 20000,
+      "clanGolds": 50
+    },
+    "1032": {
+      "userId": 1032,
+      "golds": 11460,
+      "diamonds": 19795,
+      "clanGolds": 1310
+    }
+  },
+  "wealth_record": {
+    "1016": [
+      {
+        "userId": 1016,
+        "created": 1748654989155,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "de9b4cf5d5350851",
+        "quantity": 9999,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1016,
+        "created": 1748654989154,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "8d83fd5d33cfc616",
+        "quantity": 9999,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1016,
+        "created": 1748654844792,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "3fe6de9418f6e5d4",
+        "quantity": 80,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1016,
+        "created": 1748654844791,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "985c3810faf23a45",
+        "quantity": 120,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1016,
+        "created": 1748654793573,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "bdbee9d022408fec",
+        "quantity": 9999,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1016,
+        "created": 1748654793571,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "cf871b8c7cb940a7",
+        "quantity": 150,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1016,
+        "created": 1748654793571,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "b8d35cc232089179",
+        "quantity": 50,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1016,
+        "created": 1748654793569,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "d01128702f1801a6",
+        "quantity": 120,
+        "status": 1,
+        "transactionType": 3
+      }
+    ],
+    "1032": [
+      {
+        "userId": 1032,
+        "created": 1748931324642,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "8ce20114e6237ed4",
+        "quantity": 99,
+        "status": 1,
+        "transactionType": 3
+      },
+      {
+        "userId": 1032,
+        "created": 1748931218993,
+        "currency": 1,
+        "inoutType": 1,
+        "orderId": "907e42b53307eab5",
+        "quantity": 50,
+        "status": 1,
+        "transactionType": 3
+      }
+    ]
+  },
+  "dressing": {
+    "owned": {
+      "1016": [
+        200031,
+        300002,
+        400020,
+        800092,
+        700002,
+        900020,
+        1400022,
+        1500003
+      ],
+      "1032": [
+        500013
+      ]
+    },
+    "equipped": {
+      "1016": [
+        800092,
+        200031,
+        400020,
+        300002,
+        700002,
+        900020
+      ],
+      "1032": [
+        500013
+      ]
+    }
+  },
+  "nextClanId": 508,
+  "clan_member": {
+    "1016": {
+      "userId": 1016,
+      "clanId": 504,
+      "role": 20,
+      "experience": null
+    },
+    "1032": {
+      "userId": 1032,
+      "clanId": 508,
+      "role": 20,
+      "experience": 990
+    }
+  },
+  "clans": {
+    "504": {
+      "clanId": 504,
+      "name": "testing",
+      "picUrl": "",
+      "tags": [
+        "i"
+      ],
+      "details": "ijj\n",
+      "experience": null,
+      "level": 1,
+      "memberCount": 1,
+      "freeVerify": 0,
+      "language": "",
+      "creationTime": 1748733024660
+    },
+    "508": {
+      "clanId": 508,
+      "name": "he",
+      "picUrl": "",
+      "tags": [
+        "ud"
+      ],
+      "details": "udeh",
+      "experience": 990,
+      "level": 1,
+      "memberCount": 1,
+      "freeVerify": 0,
+      "language": "",
+      "creationTime": 1748774244573
+    }
+  },
+  "cache": {
+    "donation": {
+      "1032": {
+        "1": 6,
+        "2": 540
+      }
+    }
+  },
+  "clan_donation": {
+    "508": [
+      {
+        "userId": 1032,
+        "clanId": 508,
+        "nickName": "Helpful_Carryrb",
+        "type": 1,
+        "amount": 6,
+        "expReward": 720,
+        "clanGoldReward": 720,
+        "creationTime": 1748930306261
+      },
+      {
+        "userId": 1032,
+        "clanId": 508,
+        "nickName": "Helpful_Carryrb",
+        "type": 2,
+        "amount": 540,
+        "expReward": 270,
+        "clanGoldReward": 540,
+        "creationTime": 1748930301731
+      }
+    ]
+  },
+  "nicknames": {
+    "tes": 1032
+  },
+  "signin": {
+    "1032": {
+      "lastClaimDate": null,
+      "currentDay": 0
+    }
+  },
+  "mail": {
+    "1748951666454": {
+      "id": 1748951666454,
+      "title": "Starter Pack 🎁",
+      "content": "Welcome! Here's your starter bundle.",
+      "sendDate": 1748951666454,
+      "status": 1,
+      "type": 0,
+      "attachment": [
+        {
+          "name": "Coins",
+          "qty": 1000,
+          "icon": "💰",
+          "itemId": "coin",
+          "type": 1
+        },
+        {
+          "name": "Exclusive Outfit",
+          "qty": 1,
+          "icon": "🧥",
+          "itemId": "dress01",
+          "type": 2
+        },
+        {
+          "name": "VIP Access",
+          "qty": 1,
+          "icon": "👑",
+          "itemId": "vip",
+          "type": 3,
+          "vipLevel": 3,
+          "vipDuration": 14
+        }
+      ],
+      "extra": ""
+    }
+  },
+  "mailStatus": {
+    "1032": {
+      "1748951666454": {
+        "id": 1748951666454,
+        "status": 1
+      }
+    }
+  },
+  "mailAttachments": {
+    "1032": {
+      "1748951666454": {
+        "name": "VIP Access",
+        "qty": 1,
+        "icon": "👑",
+        "itemId": "vip",
+        "type": 3,
+        "vipLevel": 3,
+        "vipDuration": 14
+      }
+    }
+  },
+  "clan_message": {
+    "1": {
+      "messageId": 1,
+      "userId": 1064,
+      "clanId": 504,
+      "authorityId": 0,
+      "message": "I want to join!",
+      "picUrl": "",
+      "nickName": "Gullible_Lukeyy",
+      "type": 0,
+      "status": 0,
+      "creationTime": 1749139559047
+    }
+  }
+}
